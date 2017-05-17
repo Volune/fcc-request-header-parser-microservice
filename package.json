@@ -1,0 +1,10 @@
+{
+  "name": "fcc-request-header-parser-microservice",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Jeremy Judeaux <jeremy.judeaux@volune.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
